@@ -1,0 +1,6 @@
+name: The Premises
+description:
+color_profile: dark  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#317963"
+permanent_nav_background: false

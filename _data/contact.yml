@@ -1,0 +1,14 @@
+location:
+  address: 202 Bellair St, Kensington VIC 3031, Australia
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.8172278282314!2d144.9302457!3d-37.7943229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d104d7df307%3A0x9b35fd38c19a9b57!2sThe%20Premises.!5e0!3m2!1sen!2sus!4v1664332685802!5m2!1sen!2sus
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/thepremisesespresso/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:+61 3 9376 7565
